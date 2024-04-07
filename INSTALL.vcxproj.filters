@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\CMakeFiles\7d6d6e0b65e389f178586bf34d1b0bb1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{71258B88-5B62-3E28-961A-40A1EB821F9D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

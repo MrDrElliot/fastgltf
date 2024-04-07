@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\src\fastgltf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\src\base64.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\deps\simdjson\simdjson.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\include\fastgltf\base64.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\include\fastgltf\glm_element_traits.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\include\fastgltf\core.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\include\fastgltf\tools.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\include\fastgltf\types.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\include\fastgltf\util.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\deps\simdjson\simdjson.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\CPP-Projects\Lumina\Lumina\Engine\ThirdParty\fastgltf\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{920325D1-2D6F-30D9-8BA4-342A273B9A58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{10EA8B65-25D1-3FC4-B64C-D1F7E9145C30}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

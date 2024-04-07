@@ -1,0 +1,10 @@
+^G:\CPP-PROJECTS\LUMINA\LUMINA\ENGINE\THIRDPARTY\FASTGLTF\CMAKEFILES\7D6D6E0B65E389F178586BF34D1B0BB1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SG:/CPP-Projects/Lumina/Lumina/Engine/ThirdParty/fastgltf -BG:/CPP-Projects/Lumina/Lumina/Engine/ThirdParty/fastgltf --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file G:/CPP-Projects/Lumina/Lumina/Engine/ThirdParty/fastgltf/fastgltf.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
