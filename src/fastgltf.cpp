@@ -46,7 +46,8 @@
 #pragma warning(disable : 4710) // function not inlined
 #endif
 
-#include <simdjson.h>
+//#include <simdjson.h>
+#include "ThirdParty/fastgltf/deps/simdjson/simdjson.h"
 
 #ifdef SIMDJSON_TARGET_VERSION
 // Make sure that SIMDJSON_TARGET_VERSION is equal to SIMDJSON_VERSION.

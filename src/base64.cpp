@@ -32,7 +32,8 @@
 #include <cmath>
 #include <functional>
 
-#include "simdjson.h"
+//#include "simdjson.h"
+#include "ThirdParty/fastgltf/deps/simdjson/simdjson.h"
 
 #include <fastgltf/base64.hpp>
 
